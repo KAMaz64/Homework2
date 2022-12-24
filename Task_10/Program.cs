@@ -4,6 +4,7 @@
 782 -> 8
 918 -> 1 */
 
+Console.Clear();
 Console.WriteLine("Введите произвольное трехзначное число ");
 int N = Convert.ToInt32(Console.ReadLine());
 

@@ -17,7 +17,7 @@ if (n<100)
 }
 else
 {
-    while (n>1000)
+    while (n>999)
     {
         n /= 10;
     }
